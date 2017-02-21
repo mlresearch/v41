@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Shared Execution of Clustering Tasks | BIGMINE 2015 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Shared Execution of Clustering Tasks">
+
+  <meta name="citation_author" content="Ravindra, Padmashree">
+
+  <meta name="citation_author" content="Gupta, Rajeev">
+
+  <meta name="citation_author" content="Anyanwu, Kemafor">
+
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_conference_title" content="Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications">
+<meta name="citation_firstpage" content="81">
+<meta name="citation_lastpage" content="96">
+<meta name="citation_pdf_url" content="ravindra15.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Shared Execution of Clustering Tasks</h1>
+
+	<div id="authors">
+	
+		Padmashree Ravindra,
+	
+		Rajeev Gupta,
+	
+		Kemafor Anyanwu
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications,
+		pp. 81–96, 2015
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		Clustering is a central problem in non-relational data analysis, with <span class="math">\(k\)</span>-means being the most popular clustering technique. In various scenarios, it may be necessary to perform clustering over the same input data multiple times – with different values of <span class="math">\(k\)</span>, different clustering attributes, or different initial centroids – before arriving at the final solution. In this paper, we propose algorithms for parallel execution of multiple runs of <span class="math">\(k\)</span>-means clustering in a way that achieves substantial savings of IO and processing resources. Proposed algorithms can easily be implemented over Hadoop/MapReduce, Spark, etc., with savings in <em>map</em> and <em>reduce</em> phases. Extensive performance evaluation using real-world datasets show that the proposed algorithms result in up to 40% savings in response times when compared to other optimization techniques proposed in literature as well as open-source implementations. The algorithms scale well with increasing data sizes, values of <span class="math">\(k\)</span>, and number of clustering tasks.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="ravindra15.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

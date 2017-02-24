@@ -1,0 +1,56 @@
+---
+booktitle: 'Proceedings of the 4th International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications'
+volume: 41
+year: '2015'
+shortname: BigMine
+start: 2015-08-10
+end: 2015-08-10
+published: 2015-08-31
+sections:
+- name: front
+  title: Front Matter
+- name: demo
+  title: Invited Demo Talks
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: BIGMINE-2015
+month: 0
+abstract: ''
+editor:
+- given: Wei
+  family: Fan
+- given: Albert
+  family: Bifet
+- given: Qiang
+  family: Yang
+- given: Philip S.
+  family: Yu
+title: 'Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous
+  Source Mining: Algorithms, Systems, Programming Models and Applications'
+email: ''
+description: 'Proceedings of the 4th International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications'
+url: http://proceedings.mlr.press
+baseurl: "/v41"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v41
+conference:
+  name: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
+    Systems, Programming Models and Applications'
+  url: http://bigdata-mining.org/bigmine-15/
+  location: 
+  dates:
+  - 2015-08-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v41.bib

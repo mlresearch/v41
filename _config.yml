@@ -28,11 +28,21 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
-title: 'Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous
-  Source Mining: Algorithms, Systems, Programming Models and Applications'
-email: ''
-description: 'Proceedings of the 4th International Workshop on Big Data, Streams and
-  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications'
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications on 10 August 2015
+
+  Published as Volume 41 by the Proceedings of Machine Learning Research on 31 August 2015.
+
+  Volume Edited by:
+    Wei Fan
+    Albert Bifet
+    Qiang Yang
+    Philip S. Yu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v41"
 twitter_username: mlresearch
@@ -42,6 +52,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v41
+email: ''
 conference:
   name: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
     Systems, Programming Models and Applications'

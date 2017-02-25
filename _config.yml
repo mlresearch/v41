@@ -19,6 +19,8 @@ series: Proceedings of Machine Learning Research
 id: BIGMINE-2015
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Wei
   family: Fan
@@ -28,7 +30,6 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications on 10 August 2015
 

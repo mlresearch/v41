@@ -44,6 +44,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 10 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v41"
 twitter_username: mlresearch
@@ -53,6 +54,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v41
+bibtex_copy: true
 email: ''
 conference:
   name: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,

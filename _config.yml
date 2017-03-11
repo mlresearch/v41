@@ -68,6 +68,7 @@ conference:
   location: 
   dates:
   - 2015-08-10
+  number: 4
 analytics:
   google:
     tracking_id: UA-92432422-1

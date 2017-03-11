@@ -18,9 +18,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: BIGMINE-2015
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Wei
@@ -31,6 +28,7 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications on 10 August 2015
 
@@ -48,7 +46,7 @@ description: |
 date_str: 10 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v41"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -60,6 +58,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -74,3 +73,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v41.bib
+---
